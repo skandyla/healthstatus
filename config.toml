@@ -1,0 +1,11 @@
+[servers]
+
+  [servers.google]
+  Url = "https://google.com"
+  Duration = 10 #seconds
+  Rate = 3	#rps
+
+  [servers.amazon]
+  Url = "https://amazon.com"
+  Duration = 13 #seconds
+  Rate = 2	#rps
